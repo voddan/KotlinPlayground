@@ -1,0 +1,9 @@
+{
+  "tasks": [
+    {
+      "taskName": "KotlinPlayground:compile",
+      "inputChecksum": "e7b88706e7b5442f86dd633009923d5b",
+      "outputChecksum": "be7aeda600e1fb5d45d6a8a3b03361c4"
+    }
+  ]
+}
